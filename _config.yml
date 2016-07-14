@@ -1,0 +1,14 @@
+layout_spectrum: 0.16224077390506864
+typography_spectrum: 0.03776073921471834
+color:
+  brandStrength: 0.6815462403465062
+  lightness: 0.0650362130254507
+  saturation: 0.7317558499053121
+  rhythmicContrast: 0.47919105738401413
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Instictli
